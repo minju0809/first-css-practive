@@ -1,0 +1,25 @@
+.box-common {
+    border: 1px solid blue;
+    height: 50px;
+    width: 50px;
+}
+
+body {
+    border: 1px solid BLUE;
+    height: 350px;
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+    border: 1px solid red;
+    width: 40%;
+    height: 150px;
+}
+
+.bx {
+    border: 1px solid red;
+    width: 40%;
+    height: 150px;
+    display: inline-block;
+}
